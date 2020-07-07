@@ -14,3 +14,6 @@ Built a REST API using FLASK and SQLAlchemy which can perform CRUD operations. D
 **Tutorial link: https://youtu.be/PTZiDnuC86g**
 
 3. Node-Beginner
+Following Brad Traversy's crash course for node.js.
+
+**Tutorial link: https://youtu.be/fBNz5xF-Kx4**
